@@ -1,4 +1,48 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+## Overview
+**HUNGERHUB** is a Food booking app developed using React Native. Here user can order their food.
+
+# Download App
+
+https://drive.google.com/file/d/1L6stp7c7zGrkWKqA0sqYGxHvHeVMjIZb/view?usp=sharing
+
+```
+   https://drive.google.com/file/d/1L6stp7c7zGrkWKqA0sqYGxHvHeVMjIZb/view?usp=sharing
+```
+Go though this link and downlad the apk file. 
+
+![image](https://github.com/Swadeshit27/Food-Order-App/assets/97722877/bdd9b526-624e-48ae-9e8e-118a041a659f)
+
+Note:- If this option is shown then click download anyway option. 
+
+Congratulations! :tada: you download the apk file now install in your mobile.
+
+# Backend code 
+
+Here is the backend code for our app
+
+https://github.com/Swadeshit27/Food-Delivery-App-backend
+
+
+# How to set up
+
+1. Make sure that you already have installed android studio, Nodejs latest version, and jdk-17. If not then go tho the ofical website of react native and install the tools mentioned in their documentation.
+2. In your terminal write follwoing command
+   
+```
+    git clone https://github.com/Swadeshit27/Food-Order-App.git
+```
+
+```
+   npm install
+```
+
+```
+   npm run android
+```
+Congratulations! :tada: Your set up is completed
+
+
+
 
 # Getting Started
 
